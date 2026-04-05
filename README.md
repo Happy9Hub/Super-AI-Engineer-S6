@@ -15,7 +15,7 @@ Welcome to my project repository for **Super AI Engineer Season 6**. This reposi
 ### 📊 Data Science & Predictive Modeling
 * **Sleep Stage Classification:** Engineered classification models to accurately categorize sleep stages based on physiological data.
 * **Heart Disease Prediction:** Predictive modeling and classification based on tabular health data.
-* **Housing Income Analysis:** Exploratory Data Analysis (EDA) and trend prediction for housing income datasets.
+* **Household Income Analysis:** Exploratory Data Analysis (EDA) and trend prediction for household income datasets.
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** Python
