@@ -1,6 +1,3 @@
-# Super-AI-Engineer-S6
-🚀 Project portfolio for the Super AI Engineer Season 6. Features competitive Machine Learning pipelines across Computer Vision (OCR), NLP (Thai Word Segmentation), GenAI (RAG), and Predictive Analytics.
-
 # 🤖 Super AI Engineer Season 6 - Portfolio
 
 Welcome to my project repository for **Super AI Engineer Season 6**. This repository contains the machine learning pipelines, models, and data analysis scripts I developed during the hackathon challenges, successfully advancing to the Level 2 interview stage. 
