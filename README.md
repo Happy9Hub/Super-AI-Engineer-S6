@@ -13,6 +13,7 @@ Welcome to my project repository for **Super AI Engineer Season 6**. This reposi
 * **FahMai RAG Challenge:** Implemented a Retrieval-Augmented Generation (RAG) system for intelligent document retrieval and question answering.
 
 ### 📊 Data Science & Predictive Modeling
+* **Sleep Stage Classification:** Engineered classification models to accurately categorize sleep stages based on physiological data.
 * **Heart Disease Prediction:** Predictive modeling and classification based on tabular health data.
 * **Housing Income Analysis:** Exploratory Data Analysis (EDA) and trend prediction for housing income datasets.
 
