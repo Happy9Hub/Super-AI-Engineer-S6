@@ -1,8 +1,6 @@
 # 🤖 Super AI Engineer Season 6 - Portfolio
 
-Welcome to my project repository for **Super AI Engineer Season 6**. This repository contains the machine learning pipelines, models, and data analysis scripts I developed during the hackathon challenges, successfully advancing to the Level 2 interview stage. 
-
-As a Senior Software Engineer with a decade of experience, my focus in these projects was not only on model accuracy but also on writing clean code and building scalable pipelines.
+Welcome to my project repository for **Super AI Engineer Season 6**. This repository contains the machine learning pipelines, models, and data analysis scripts I developed during the hackathon challenges. 
 
 ## 🚀 Featured Projects
 
